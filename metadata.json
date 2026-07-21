@@ -1,0 +1,6 @@
+{
+  "name": "الرؤية الذهبية لصيانة المكيفات",
+  "description": "صيانة وتركيب وتنظيف المكيفات في دبي، الشارقة وعجمان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
